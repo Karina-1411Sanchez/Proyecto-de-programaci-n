@@ -6,8 +6,11 @@ Mi proyecto es el temporizador tecnica de pomodoro.
 
 Modulos del sistema:
 - 
-- Autenticacion y gestion de usuarios: inicio de sesión 
+- Autenticacion y gestion de usuarios: inicio de sesión en la pagina web.
 - Procesamiento de datos: pausar y reiniciar el temprorizador, personalizar el tiempo de estudio y de descanso.
 - interfaz de usuario: Botones de inicio y pausa.
+  
 
-
+integrantes:
+-
+[Mayra Karina Sanchez Sanchez](https://github.com/Karina-1411Sanchez)
