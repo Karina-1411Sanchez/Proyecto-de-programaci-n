@@ -2,14 +2,14 @@ Titulo delproyecto
 -
 SISTEMA DE MONITOREO DE CULTIVOS.
 
-Es una aplicacion web accesible para los agricultores que les permite registrar y monitorearel estado de sus cultivos, 
-reportar problemas de palgas o emfermedades mediante imagenes y recibir notificaciones de alertas sbre fertilizacion y riego oportuno.
+Es una aplicacion web accesible para los agricultores que les permite registrar y monitorear el estado de sus cultivos, 
+reportar problemas de plagas o emfermedades mediante imagenes detalladas del estado del cultivo y recibir notificaciones de alertas sobre fertilizacion y riego oportuno.
 
 Modulos del sistema
 - 
 Atenticacion y gestion de usuarios:
 
-Este modulo permite que el agricultor se registre e inicie sesion en el sistema maneje roles y permisos para garantizar la seguridad
+Este modulo permite que el agricultor se registre e inicie sesión en el sistema maneje roles y permisos para garantizar la seguridad
 de los datos que valide cada usuario de su cultivo.
 
 Procesamiento de datos y gestion del cultivo:
