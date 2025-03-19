@@ -19,7 +19,7 @@ Modulo encargado de aplicar la logica y analizar la informacion del registro de 
 Reporte de problemas:
 
 Modulo que permitira al usuario ingresar y registar  problemas en sus cultivos adjuntando una imagen  con detalles previos de plagas o emfermedades
-que lo esten afectando, ademas el sistema genera alertas automaticas cuando detecte un problema.
+que lo esten afectando, ademas el sistema generara alertas automaticas basadas en los datos que que ingresan los agricultores el sistema les brindara información preventiva .
 
 Tecnologias
 -
