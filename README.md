@@ -72,7 +72,7 @@ Tecnologias
 -
 El proyecto se desarrollara en el lenguaje de programación javascrip en el ID VS code  se implementara  HTML y CSS para diseñar
 la estructura y estilo de la interfaz grafica del sistema para que atractiva y accesible para el usuario  , Node.js y Express.js 
-para gestionar los datos y logica .Firebase storage la elegi para almacenar las imagenes en el sistema Firebase NoSQL es la base de datos para almacenar la informacion.
+para gestionar los datos y logica .Firebase storage la elegi para almacenar las imagenes en el sistema Firebase firestore NoSQL es la base de datos para almacenar la informacion.
 Firebase cloud Messagin es para enviar las notificaciones y alertas a los usuarios.
 
 
