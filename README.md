@@ -4,7 +4,7 @@ SISTEMA DE MONITOREO PARA CULTIVOS DE PAPA.
 
 DESCRIPCION:
 El sistema de monitoreo de cultivos es una aplicacion web accesible para los agricultores de papa, que les permite gestionar los cultivos.
-La plataforma permite registrar la fecha de siembra para emepezar a monitorear el estado del cultivo desde cero ademas podran reportar 
+La plataforma permitira registrar la fecha de siembra para emepezar a monitorear el estado del cultivo desde cero, ademas podran reportar 
 problemas que lo afecten mediante imagenes detalladas y recibiran notificaciones sobre fertilizacion oportuna.
 
 Objetivo del proyecto
@@ -19,13 +19,14 @@ Modulos del sistema
 - 
 1. Autenticación y gestion de usuarios:
 
-este modulo que permite el acceso al sistema mediante inicio de sesion, una vez autenticados podran acceder a las funcionalidades del sistema 
+este modulo que permite el acceso seguro al sistema mediante inicio de sesion, una vez autenticados podran acceder a las funcionalidades del sistema 
 y gestionar sus cultivos.
  
    
 2. procesamiento de datos y seguimiento del cultivo:
 
-ingresar datos del cultivo desde cero y subir imagenes detalladas de la evolucion del cultivo para monitorearlo.
+El modulo se encarga de que el usuario ingrese datos del cultivo desde cero como la feca de siembra y subir imagenes detalladas de la evolucion del
+cultivo para monitorearlo.
 
 
 3. Reporte de problemas:
@@ -34,23 +35,20 @@ Reportar problemas con imagenes y descripcion detallada.
 
 4. Notificaciones y alertas:
 
-enviara notificaciones de alerta sobre fecha de fertilizacion oportuna.
+enviara notificaciones de alerta y recordatorio sobre fecha de fertilizacion oportuna.
 
 5. Interfaz de usuario:
    
 Es la interfaz visual que permite a los agricultores interactuar con el sistema y acceder a todos los modulos.
 
 
-Objetivo del poryecto:
-
 
 Tecnologias
 -
-el proyecto se desarrollara en lenguaje de programacion JavaSript para desarrollar la aplicacion web con HTML y CSS para diseñar
-la estructura y estilo de la interfaz grafica atractiva y accesible de el sistema  , Node.js y Express.js para gestionar los datos .
-firebase para guardar los datos del usuario .
-
-
+El proyecto se desarrollara en el lenguaje de programación javascrip en el ID VS code  se implementara  HTML y CSS para diseñar
+la estructura y estilo de la interfaz grafica del sistema para que atractiva y accesible de el sistema  , Node.js y Express.js 
+para gestionar los datos .Firebase NoSQL es la base de datos para almacenar la informacion. Firebase cloud Messagin es para enviar 
+las notificaciones y alertas a los usuarios.
 
 
 integrantes:
