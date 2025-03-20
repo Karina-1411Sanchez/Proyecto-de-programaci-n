@@ -49,7 +49,7 @@ Tecnologias
 el proyecto se desarrollara en lenguaje de programacion JavaSript para desarrollar la aplicacion web con HTML y CSS para diseñar
 la estructura y estilo de la interfaz grafica atractiva y accesible de el sistema  , Node.js y Express.js para gestionar los datos .
 firebase para guardar los datos del usuario .
-firebase Cloud Messagin porque facilita la integracion con aplicaciones web y permite enviar notificaciones en tiempo real.
+
 
 
 
