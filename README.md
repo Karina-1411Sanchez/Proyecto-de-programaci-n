@@ -7,14 +7,6 @@ El sistema de monitoreo de cultivos es una aplicacion web accesible para los agr
 La plataforma permitira registrar la fecha de siembra para emepezar a monitorear el estado del cultivo desde cero, ademas podran reportar 
 problemas que lo afecten mediante imagenes detalladas y recibiran notificaciones sobre fertilizacion oportuna.
 
-Objetivo del proyecto
--
-
-Desarrollar una aplicación web accesible e intuitiva que permita a los agricultores de papa gestionar y monitorear sus cultivos, recordandoles
-la fertilizacion opurtuna para prevenir enfermedades  plagas que l puedan afectar 
-
-
-
 Modulos del sistema
 - 
 1. Autenticación y gestion de usuarios:
@@ -78,8 +70,8 @@ Configuración: Permite modificar datos del usuario, configurar notificaciones, 
 Tecnologias
 -
 El proyecto se desarrollara en el lenguaje de programación javascrip en el ID VS code  se implementara  HTML y CSS para diseñar
-la estructura y estilo de la interfaz grafica del sistema para que atractiva y accesible de el sistema  , Node.js y Express.js 
-para gestionar los datos .Firebase storage la elegi para almacenar las imagenes en el sistema Firebase NoSQL es la base de datos para almacenar la informacion.
+la estructura y estilo de la interfaz grafica del sistema para que atractiva y accesible para el usuario  , Node.js y Express.js 
+para gestionar los datos y logica .Firebase storage la elegi para almacenar las imagenes en el sistema Firebase NoSQL es la base de datos para almacenar la informacion.
 Firebase cloud Messagin es para enviar las notificaciones y alertas a los usuarios.
 
 
