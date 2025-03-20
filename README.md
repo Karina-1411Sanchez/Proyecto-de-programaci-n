@@ -1,44 +1,57 @@
-Titulo delproyecto
+Titulo del proyecto
 -
 SISTEMA DE MONITOREO DE CULTIVOS DE PAPA.
 
-El sistema de monitoreo de cultivos es una aplicacion web accesible para los agricultores de papa, que les permite gestionar sus cultivos de manera eficiente,
-permitiendoles registrar la fecha de siembra y otros detalles para que el sistema  monitoreé el estado del cultivo, que les permita reportar problemas de plagas
-o enfermedadesque lo afecten mediante imagenes detalladas que el agricultor debe subir a la plataforma, podra recibir alertas sobre fertilización oportuna
-segun los detalles cultivo.
+DESCRIPCION:
+El sistema de monitoreo de cultivos es una aplicacion web accesible para los agricultores de papa, que les permite gestionar los cultivos.
+La plataforma permite registrar la fecha de siembra para emepezar a monitorear el estado del cultivo desde cero ademas podran reportar 
+problemas que lo afecten mediante imagenes detalladas y recibiran notificaciones sobre fertilizacion oportuna.
+
+Objetivo del proyecto
+-
+
+Desarrollar una aplicación web accesible e intuitiva que permita a los agricultores de papa gestionar y monitorear sus cultivos, recordandoles
+la fertilizacion opurtuna para prevenir enfermedades  plagas que l puedan afectar 
+
+
 
 Modulos del sistema
 - 
 1. Autenticación y gestion de usuarios:
 
-Este modulo es el encargado del registro e inicio de sisión para agricultores.
-
-2. Procesamiento de datos y gestión del cultivo:
-
-Modulo donde el agricultor registre los datos del cultivo como la fecha de siembra, tambie  donde se suben imagenes detalladas para monitorearlo procesamiento
-y analisisde datos para evaluar el estado del cultivo.
-
-3.Reporte de problemas:
-
-Modulo que permitira al usuario ingresar y registar  problemas en sus cultivos adjuntando una imagen  con detalles previos de plagas o enfermedades
-que lo esten afectando, ademas el sistema generara alertas automaticas basadas en los datos que que ingresan los agricultores el sistema les brindara
-información preventiva.
-
-4. Recomendaciones y notificaciones:
-
-Modulo que enviara notificaciones sobre fechas de fertilización. 
-
+este modulo que permite el acceso al sistema mediante inicio de sesion, una vez autenticados podran acceder a las funcionalidades del sistema 
+y gestionar sus cultivos.
+ 
    
+2. procesamiento de datos y seguimiento del cultivo:
+
+ingresar datos del cultivo desde cero y subir imagenes detalladas de la evolucion del cultivo para monitorearlo.
+
+
+3. Reporte de problemas:
+
+Reportar problemas con imagenes y descripcion detallada.
+
+4. Notificaciones y alertas:
+
+enviara notificaciones de alerta sobre fecha de fertilizacion oportuna.
+
+5. Interfaz de usuario:
+   
+Es la interfaz visual que permite a los agricultores interactuar con el sistema y acceder a todos los modulos.
+
+
+Objetivo del poryecto:
+
 
 Tecnologias
 -
-lenguaje de programacion JavaSript con HTML y CSS para la estructura y estilo de la interfaz.
+el proyecto se desarrollara en lenguaje de programacion JavaSript para desarrollar la palicacion web con HTML y CSS para diseñar
+la estructura y estilo de la interfaz grafica atractiva y accesible de el sistema  , Node.js y Express.js para gestionar los datos .
+firebase para guardar los datos del usuario .
+firebase clound messagin porque facilita la integracion con aplicaciones web y permite enviar notificaciones en tiempo real.
 
-Node.js y Express.js para gestionar los datos .
 
-Base de datos firebase o MysQl para guardar la informacion del usuario.
-
-Firebase cloud messaging para enviar notificaciones.
 
 integrantes:
 -
