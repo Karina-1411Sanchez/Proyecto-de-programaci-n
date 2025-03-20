@@ -1,6 +1,6 @@
 Titulo del proyecto
 -
-SISTEMA DE MONITOREO DE CULTIVOS DE PAPA.
+SISTEMA DE MONITOREO PARA CULTIVOS DE PAPA.
 
 DESCRIPCION:
 El sistema de monitoreo de cultivos es una aplicacion web accesible para los agricultores de papa, que les permite gestionar los cultivos.
